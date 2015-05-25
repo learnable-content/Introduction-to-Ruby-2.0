@@ -1,0 +1,9 @@
+
+<h1>You won the <%= @computer_card.description %> card!</h1>
+<img src="<%= @computer_card.image %>">
+<p>
+You now have <%= session[:player].count %> cards.
+</p>
+<p>
+<a href='/play'>Play next round</a>
+</p>

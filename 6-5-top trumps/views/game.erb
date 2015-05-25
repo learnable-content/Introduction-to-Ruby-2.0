@@ -1,0 +1,15 @@
+<div class="player card">
+  <h2><%= @player_card.description %></h2>
+  <img src="<%= @player_card.image %>">
+  <ul>
+    <li><a href='/play/strength'>Strength</a>: <%= @player_card.strength %></li>
+    <li><a href='/play/agility'>Agility</a>: <%= @player_card.agility %></li>
+    <li><a href='/play/speed'>Speed</a>: <%= @player_card.speed %></li>
+</div>
+<div class="v">
+  Vs
+</div>
+<div class="computer card">
+  <h2><%= @computer_card.description %></h2>
+  <img src="<%= @computer_card.image %>">
+</div>
