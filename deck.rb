@@ -17,3 +17,24 @@ class Card
     end
   end
 end
+
+class Deck
+  def initialize
+    @cards = []
+    suits = %w[ Hearts Diamonds Clubs Spades ]
+    names = %w[ Ace 2 3 4 5 6 7 8 9 10 Jack Queen King ]
+    suits.each do |suit|
+      names.each do |name|
+        @cards << Card.new(name,suit)
+      end
+    end
+  end
+
+  def shuffle
+    @cards.shuffle!
+  end
+
+  def draw
+    @cards.pop
+  end
+end
