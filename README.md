@@ -27,16 +27,16 @@ Useful Links
 
 Extra Things to learn about:
 
- ![Ruby Modules](http://ruby-doc.org/core-2.2.3/Module.html)
+ Ruby Modules - (http://ruby-doc.org/core-2.2.3/Module.html)
 
- ![Ruby Time Class](http://www.ruby-doc.org/core-2.2.3/Time.html)
+ Ruby Time Class - (http://www.ruby-doc.org/core-2.2.3/Time.html)
 
- ![Ruby File Operations](http://www.ruby-doc.org/core-2.2.3/File.html)
+ Ruby File Operations - (http://www.ruby-doc.org/core-2.2.3/File.html)
 
 #Further Learning:
 
-	![Try Ruby] (http://tryruby.org/levels/1/challenges/0) 
-	An interactive tutorial that gives you a whirlwind wour of Ruby in about 15 minutes
+Try Ruby (http://tryruby.org/levels/1/challenges/0) 
+An interactive tutorial that gives you a whirlwind wour of Ruby in about 15 minutes
 
 Pickaxe book (http://pragprog.com/book/ruby4/programming-ruby-1-9-2-0) 
 The definitive ruby book, the first edition is available for free online (http://ruby-doc.com/docs/ProgrammingRuby/), or you can get the latest version in print or e-book format.
