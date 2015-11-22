@@ -19,9 +19,9 @@ __END__
 @@questions
 <!doctype html>
 <html>
-  <header>
+  <head>
     <title>Madlibs</title>
-  </header>
+  </head>
   <body>
     <form method="POST" action="/madlibs">
       <p>Animal:</p>
